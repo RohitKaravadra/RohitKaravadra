@@ -11,6 +11,7 @@ Hello, I'm Rohit Karavadra 😁, a passionate Game Programmer from India.
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine)
 
+<!-- Languages Stats from repositories -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitKaravadra&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)
 
 ## 📫 Get in Touch
