@@ -16,7 +16,7 @@ Hello, I'm Rohit Karavadra 😁, a passionate Game Programmer.
 
 ## ⚒️ My Work
 
-Please see the pinned repositories.
+Please see the pinned repositories for more details.
 
 ## 📫 Get in Touch
 
