@@ -18,7 +18,7 @@ Hello, I'm Rohit Karavadra 😁, Computer Engineer and Game Programmer.
 
 <p>
   <a href="https://rohitkaravadra.github.io/" alt="Porfolio">
-    <img src="https://img.shields.io/badge/🚀%20My%20Portfolio-%2300bfff?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio" />
+    <img src="https://img.shields.io/badge/%20My%20Portfolio-%2300bfff?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio" />
   </a>
 </p>
 
