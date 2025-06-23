@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  Hello, I'm <strong>Rohit Karavadra</strong> 😁, Computer Engineer and Game Programmer.
+  Hello, I'm <strong>Rohit Karavadra</strong> 🤓, Computer Engineer and Game Programmer.
 </p>
 
 <!-- Stats (optional) -->
@@ -35,6 +35,12 @@
   <a href="https://rohitkaravadra.github.io/">
     <img src="https://img.shields.io/badge/%20My%20Portfolio-%2300bfff?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/RohitKaravadra/Rasteriser/blob/main/Readme/GIF1.gif?raw=true" alt="Indie Game Preview" width="30%" />
+  <img src="https://github.com/RohitKaravadra/Vampire-Survival/blob/main/Readme/Gif_1.gif?raw=true" alt="Indie Game Preview" width="30%"/>
+  <img src="https://github.com/RohitKaravadra/Echo-of-Youth/blob/main/Readme/GIF2.gif?raw=true" alt="Indie Game Preview" width="30%" />
 </p>
 
 <p align="center">
