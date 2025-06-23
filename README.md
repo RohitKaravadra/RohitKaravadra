@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://rohitkaravadra.github.io/">
-    <img src="https://img.shields.io/badge/%20My%20Portfolio-%2300bfff?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio" />
+    <img src="https://img.shields.io/badge/My%20Portfolio-1e1e2f?style=for-the-badge&logo=github&logoColor=white&labelColor=2dd4bf" alt="Visit My Portfolio" />
   </a>
 </p>
 
