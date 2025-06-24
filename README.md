@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+# <p align="center"> Hi there 👋</p>
 
 <p align="center">
   Hello, I'm <strong>Rohit Karavadra</strong> 🤓, Computer Engineer and Game Programmer.
