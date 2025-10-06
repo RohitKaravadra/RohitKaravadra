@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=RohitKaravadra&color=111111&label=:)&style=plastic" alt="views"/>
+</div>
+
 # <p align="center"> Hi there 👋</p>
 
 <p align="center">
@@ -16,11 +20,11 @@
 ## <p align="center">🔧 Tools & Technologies </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-DirectX-1B1B1B?style=flat-square&logo=directx" />
-  <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity" />
-  <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python" />
+  <img src="https://img.shields.io/badge/-DirectX-1B1B1B?style=plastic&logo=directx" />
+  <img src="https://img.shields.io/badge/-Unity-000000?style=plastic&logo=unity" />
+  <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=plastic&logo=unreal-engine" />
 </p>
 
 <p align="center">
@@ -32,20 +36,20 @@
 ## <p align="center">⚒️ My Work</p>
 
 <p align="center">
-  <img src="https://github.com/RohitKaravadra/Rasteriser/blob/main/Readme/GIF1.gif?raw=true" alt="Indie Game Preview" width="30%" />
-  <img src="https://github.com/RohitKaravadra/Vampire-Survival/blob/main/Readme/Gif_1.gif?raw=true" alt="Indie Game Preview" width="30%"/>
-  <img src="https://github.com/RohitKaravadra/Echo-of-Youth/blob/main/Readme/GIF2.gif?raw=true" alt="Indie Game Preview" width="30%" />
-</p>
-
-<p align="center">
   <a href="https://rohitkaravadra.github.io/">
     <img src="https://img.shields.io/badge/My%20Portfolio-1e1e2f?style=for-the-badge&logo=github&logoColor=white&labelColor=2dd4bf" alt="Visit My Portfolio" />
   </a>
 </p>
 
 <p align="center">
+  <img src="https://github.com/RohitKaravadra/Rasteriser/blob/main/Readme/GIF1.gif?raw=true" alt="Indie Game Preview" width="30%" />
+  <img src="https://github.com/RohitKaravadra/Vampire-Survival/blob/main/Readme/Gif_1.gif?raw=true" alt="Indie Game Preview" width="22%"/>
+  <img src="https://github.com/RohitKaravadra/Echo-of-Youth/blob/main/Readme/GIF2.gif?raw=true" alt="Indie Game Preview" width="30%" />
+</p> 
+
+<!-- <p align="center">
   Please see the pinned repositories for more details.
-</p>
+</p> -->
 
 ---
 
@@ -53,9 +57,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohitkaravadra">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <br>
   <a href="https://vec1or2000.itch.io/">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" />
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=flat&logo=itch.io&logoColor=white" alt="Itch.io" />
   </a>
 </p>
