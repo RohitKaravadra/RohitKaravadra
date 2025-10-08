@@ -1,6 +1,6 @@
-<div align="right">
+<!-- <div align="right">
   <img src="https://komarev.com/ghpvc/?username=RohitKaravadra&color=111111&label=:)&style=plastic" alt="views"/>
-</div>
+</div> -->
 
 # <p align="center"> Hi there 👋</p>
 
