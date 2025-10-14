@@ -1,6 +1,6 @@
 <h1 align="center">I'm Rohit Karavadra</h1>
 <p align="center">
-  🤓 Computer Engineer | Indie Game Developer | Game Programmer
+  🤓 Computer Engineer | Game Programmer | Computer Graphics
 </p>
 
 ---
