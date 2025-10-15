@@ -1,11 +1,20 @@
-<h1 align="center">I'm Rohit Karavadra</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Grinning%20Face.webp" alt="Grinning Face" width="100" height="100" />
+  <br>
+  Hey there! <br>
+  I’m Rohit
+</h1>
 <p align="center">
-  🤓 Computer Engineer | Game Programmer | Computer Graphics
+  Computer Engineer | Game Programmer | Computer Graphics
 </p>
 
 ---
 
-<h2 align="center"> 🔧 Tools & Technologies </h2>
+<h2 align="center"> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="40" height="40" />
+  Tools & Technologies 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="40" height="40" />
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B" />
@@ -21,7 +30,11 @@
 
 ---
 
-<h2 align="center">⚒️ My Work </h2>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="40" height="40" />
+  My Work 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="40" height="40" />
+</h2>
 
 <p align="center">
   <a href="https://rohitkaravadra.github.io/">
@@ -37,7 +50,11 @@
 
 ---
 
-<h2 align="center"> 📫 Get in Touch </h2>
+<h2 align="center"> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Busts%20In%20Silhouette.webp" alt="Busts In Silhouette" width="40" height="40" />
+  Get in Touch 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Speaking%20Head.webp" alt="Speaking Head" width="40" height="40" />
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohitkaravadra">
@@ -47,3 +64,7 @@
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
   </a>
 </p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Dancing.webp" alt="Man Dancing" width="100" height="100" />
+<p align="center">
