@@ -82,6 +82,6 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Dancing.webp" alt="Man Dancing" width="100" height="100" />
-<p align="center">
+<p align="center"> -->
